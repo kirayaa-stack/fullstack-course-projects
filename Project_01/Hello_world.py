@@ -15,6 +15,29 @@ age_100 = 100 - int(age) + 2025
 print(f"You will be 100 years old in {age_100}")
 
 
+answer_01 = input("Do you watch Anime? (Yes/No):")
+if answer_01 == "Yes":
+    print("Wow,amazing didnt expect you there!")
+else:
+    print("Oh i see,but you should!")
+
+answer_02 = input("Have you been well lately? (Yes/No/Don't wanna share):")
+if answer_02 == "Yes":
+    print("Glad to hear that man!")
+elif answer_02 == "No":
+    print("Aww it's fine,i hope everything will be good!")
+else:
+    print("It's fine.But i just wanna say you're perfect the way you are ""wink wink")
+
+import pyfiglet
+
+text = "Love you!"
+text=pyfiglet.print_figlet(text="Love you!",
+                           colors='Red')
+
+
+
+
 
 
 
