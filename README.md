@@ -1,1 +1,1 @@
-# fullstack-course-projects
+Whoever you are reading this,i hope you'r having a good day! This is Kira.Pleasure to meet you.Currently 22 years old,studying as fullstack developer at ICODE_academy.What you are looking right now is my first ever project! Enjoy~
